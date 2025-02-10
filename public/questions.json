@@ -1,0 +1,54 @@
+[
+    {
+      "question": "Qual é o país com o maior número de fusos horários?",
+      "options": ["China", "Estados Unidos", "Rússia", "França"],
+      "answer": "França"
+    },
+    {
+      "question": "Qual é o maior oceano do mundo?",
+      "options": ["Oceano Atlântico", "Oceano Índico", "Oceano Pacífico", "Oceano Ártico"],
+      "answer": "Oceano Pacífico"
+    },
+    {
+      "question": "Qual é o rio mais longo do mundo?",
+      "options": ["Rio Amazonas", "Rio Nilo", "Rio Yangtzé", "Rio Mississipi"],
+      "answer": "Rio Amazonas"
+    },
+    {
+      "question": "Qual é o único continente que não tem desertos?",
+      "options": ["América do Sul", "Europa", "Oceania", "Ásia"],
+      "answer": "Europa"
+    },
+    {
+      "question": "Qual país tem o maior território do mundo?",
+      "options": ["Canadá", "Rússia", "Estados Unidos", "China"],
+      "answer": "Rússia"
+    },
+    {
+      "question": "Qual é a capital da Austrália?",
+      "options": ["Sydney", "Melbourne", "Brisbane", "Camberra"],
+      "answer": "Camberra"
+    },
+    {
+      "question": "Em qual país está localizado o Monte Fuji?",
+      "options": ["Coreia do Sul", "China", "Japão", "Tailândia"],
+      "answer": "Japão"
+    },
+    {
+      "question": "Qual é o maior arquipélago do mundo?",
+      "options": ["Filipinas", "Indonésia", "Japão", "Maldivas"],
+      "answer": "Indonésia"
+    },
+    {
+      "question": "Qual desses países faz parte da Escandinávia?",
+      "options": ["Alemanha", "Dinamarca", "Finlândia", "Estônia"],
+      "answer": "Dinamarca"
+    },
+    {
+      "question": "Qual é a montanha mais alta do mundo?",
+      "options": ["Monte McKinley", "Monte Kilimanjaro", "Monte Everest", "Monte Aconcágua"],
+      "answer": "Monte Everest"
+    }
+    
+  ]
+  
